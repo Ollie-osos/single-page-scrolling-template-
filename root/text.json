@@ -1,0 +1,23 @@
+{
+    "about": {
+        "title": "About",
+        "text": "Lisboa Social Press is an independent artist run space for hands-on-creative workshops for locals and visitors alike. <br>
+        Founded in 2018 by artists Jillian Roberts and Tom Maryniak, the artist duo work together and specialise in teaching a varied programme of printmaking workshops between them.  Alongside these, Lisboa Social Press simultaneously facilitates cultural events, artists in residence, guest workshops and public exhibitions."
+    },
+    "location": {
+        "title": "Location",
+        "text": "Located in the heart of Baixa, the third floor Atelier is just seconds from the Elevator Santa Justa and offers a haven of quietude from the bustling street below. Originally an apartment, the studio boasts all of its original features including its traditional Azulejos tiles. The building, constructed soon after the earthquake of 1755, is a beautiful example of the areas renovation under Marques de Pombal."
+    },
+    "tutors": {
+        "title": "The Tutors",
+        "tom":{
+            "title": "Tom Maryniak",
+            "text": "After graduating from Bath Spa in 2012 with a degree in Fine Art Printmaking, Tom went on to develop his practice in New York before returning to London in 2015 and focusing his attention on wallpaper and pattern design. With a passion for woodblock printing in particular, he continues to develop his own practice alongside regular commissions for various publications and magazines."
+        },
+        "jilly":{
+            "title": "Jillian Roberts",
+            "text": "Jilly graduated with a masters in Fine Art Printmaking from the Royal College of Art. Since completing her studies in 2015 she has taken part in several group and solo exhibitions in Portugal and abroad. Before moving to Lisbon, Jilly’s work included orchestrating a range of workshops in London’s Fashion and Textile Museum and guest lecturing at Brighton university and Writtle college. CELTA qualified, Jilly has had three years teaching nationally and internationally."
+        }
+    },
+    
+}
